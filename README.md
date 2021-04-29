@@ -21,45 +21,56 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/devudit" target="blank"><img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/social/linkedin.png" alt="devudit" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/3090761" target="blank"><img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/social/stack-overflow.png" alt="3090761" height="30" width="40" /></a>
-<a href="https://medium.com/@uditrawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/social/medium.png" alt="@uditrawat" height="30" width="40" /></a>
-<a href="https://www.drupal.org/u/uditrawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/social/drupal.png" alt="uditrawat" height="30" width="40" /></a>
-<a href="https://profiles.wordpress.org/udit-rawat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/social/wordpress.png" alt="udit-rawat" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/devudit" target="blank"><img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/social/linkedin.png" alt="devudit" width="40" /></a>&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/3090761" target="blank"><img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/social/stack-overflow.png" alt="3090761" width="40" /></a>&nbsp;&nbsp;
+<a href="https://medium.com/@uditrawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/social/medium.png" alt="@uditrawat" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.drupal.org/u/uditrawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/social/drupal.png" alt="uditrawat" width="40" /></a>&nbsp;&nbsp;
+<a href="https://profiles.wordpress.org/udit-rawat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/social/wordpress.png" alt="udit-rawat" width="40" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
-<p align="left"><img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/langs/php.png" alt="php" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/langs/javascript.png" alt="javascript" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/langs/typescript.png" alt="typescript" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/langs/html-5.png" alt="html-5" width="40" />
+<p align="left"><img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/langs/php.png" alt="php" width="40" />&nbsp;&nbsp;
+<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/langs/javascript.png" alt="javascript" width="40" />&nbsp;&nbsp;
+<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/langs/typescript.png" alt="typescript" width="40" />&nbsp;&nbsp;
+<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/langs/html-5.png" alt="html-5" width="40" />&nbsp;&nbsp;
 <img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/langs/css.png" alt="css" width="40" /></p>
 
 
 <h3 align="left">Tools & Plateform:</h3>
-<p align="left"><img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/tools/phpstrom.jpeg" alt="phpstrom" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/tools/workbench.jpeg" alt="workbench" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/tools/git.png" alt="git" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/tools/drush.png" alt="drush" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/tools/composer.png" alt="composer" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/tools/gulp.png" alt="gulp" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/tools/grunt.svg" alt="grunt" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/tools/nodejs.png" alt="nodejs" width="40" />
+<p align="left"><img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/tools/phpstrom.jpeg" alt="phpstrom" width="40" />&nbsp;&nbsp;
+<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/tools/workbench.jpeg" alt="workbench" width="40" />&nbsp;&nbsp;
+<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/tools/git.png" alt="git" width="40" />&nbsp;&nbsp;
+<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/tools/drush.png" alt="drush" width="40" />&nbsp;&nbsp;
+<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/tools/composer.png" alt="composer" width="40" />&nbsp;&nbsp;
+<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/tools/gulp.png" alt="gulp" width="40" />&nbsp;&nbsp;
+<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/tools/grunt.svg" alt="grunt" width="40" />&nbsp;&nbsp;
+<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/tools/nodejs.png" alt="nodejs" width="40" />&nbsp;&nbsp;
 <img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/tools/npm.png" alt="npm" width="40" /></p>
 
 <h3 align="left">Servers & DevOps:</h3>
 <p align="left">
-<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/servers/pantheon.svg" alt="pantheon" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/servers/cloud-platform.svg" alt="Acquia" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/servers/cloudways.png" alt="cloudways" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/servers/digital-ocean.png" alt="Digital Ocean" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/servers/pantheon.svg" alt="pantheon" width="40" />&nbsp;&nbsp;
+<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/servers/cloud-platform.svg" alt="Acquia" width="100" />&nbsp;&nbsp;
+<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/servers/cloudways.png" alt="cloudways" width="80" />&nbsp;&nbsp;
+<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/servers/digital-ocean.png" alt="Digital Ocean" width="60" />
 </p>
 
 <h3 align="left">Cms & Frameworks:</h3>
 <p align="left">
-<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/cms/drupal.png" alt="Drupal 7/8/9" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/cms/wordpress.png" alt="wordpress" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/cms/craft-cms.png" alt="craft cms" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/cms/expressionengine.png" alt="Expression Engine" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/cms/drupal.png" alt="Drupal 7/8/9" width="40" />&nbsp;&nbsp;
+<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/cms/wordpress.png" alt="wordpress" width="40" />&nbsp;&nbsp;
+<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/cms/craft-cms.png" alt="craft cms" width="60" />&nbsp;&nbsp;
+<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/cms/expressionengine.png" alt="Expression Engine" width="40" />&nbsp;&nbsp;
 <img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/cms/laravel.png" alt="Laravel" width="40" />
 </p>
+<br/>
+<br/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=devudit&show_icons=true&locale=en" alt="devudit" /></p>
+<br/>
+<br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devudit&" alt="devudit" /></p>
+<br/>
+<br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devudit&show_icons=true&locale=en&layout=compact" alt="devudit" /></p>
+<br/>
+<br/>
