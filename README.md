@@ -28,11 +28,13 @@
 <a href="https://profiles.wordpress.org/udit-rawat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/social/wordpress.png" alt="udit-rawat" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://cordova.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a></p>
+<h3 align="left">Languages:</h3>
+<p align="left"><img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/langs/php.png" alt="php" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/langs/javascript.png" alt="javascript" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/langs/typescript.png" alt="typescript" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/langs/html-5.png" alt="html-5" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/langs/css.png" alt="css" width="40" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devudit&show_icons=true&locale=en&layout=compact" alt="devudit" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=devudit&show_icons=true&locale=en" alt="devudit" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devudit&" alt="devudit" /></p>
+<h3 align="left">Tools & Plateform:</h3>
+<p align="left"></p>
