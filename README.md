@@ -37,4 +37,12 @@
 
 
 <h3 align="left">Tools & Plateform:</h3>
-<p align="left"></p>
+<p align="left"><img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/tools/phpstrom.jpeg" alt="phpstrom" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/tools/workbench.jpeg" alt="workbench" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/tools/git.png" alt="git" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/tools/drush.png" alt="drush" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/tools/composer.png" alt="composer" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/tools/gulp.png" alt="gulp" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/tools/grunt.svg" alt="grunt" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/tools/nodejs.png" alt="nodejs" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/tools/npm.png" alt="npm" width="40" /></p>
