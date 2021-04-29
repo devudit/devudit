@@ -54,3 +54,12 @@
 <img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/servers/cloudways.png" alt="cloudways" width="40" />
 <img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/servers/digital-ocean.png" alt="Digital Ocean" width="40" />
 </p>
+
+<h3 align="left">Cms & Frameworks:</h3>
+<p align="left">
+<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/cms/drupal.png" alt="Drupal 7/8/9" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/cms/wordpress.png" alt="wordpress" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/cms/craft-cms.png" alt="craft cms" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/cms/expressionengine.png" alt="Expression Engine" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/devudit/devudit/main/assets/cms/laravel.png" alt="Laravel" width="40" />
+</p>
