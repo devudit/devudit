@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Udit R</h1>
-<h3 align="left">Professional <strong>Full Stack Software Developer</strong> with 8+ years of focused experience in <strong>PHP Development</strong> with expertise in reviewing client requirements prioritizes requirements and baseline project plan.</h3>
-<h3 align="left">Since 2012, I have focused on opensource cms and frameworks like <strong>Drupal, WordPress, Expression Engine</strong>, and <strong>Laravel</strong>. And in between, I have collaborated with some Nodejs/Hybrid Mobile application team.</h3>
+<p align="left">Professional <strong>Full Stack Software Developer</strong> with 8+ years of focused experience in <strong>PHP Development</strong> with expertise in reviewing client requirements prioritizes requirements and baseline project plan.</p>
+<p align="left">Since 2012, I have focused on opensource cms and frameworks like <strong>Drupal, WordPress, Expression Engine</strong>, and <strong>Laravel</strong>. And in between, I have collaborated with some Nodejs/Hybrid Mobile application team.</p>
 <br/>
 
 - 🔭 Preferred IDE **PhpStrom**
